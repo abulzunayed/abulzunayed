@@ -3,20 +3,14 @@
 
 ## About Me
 
-- 👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
-- 🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
-- 🤔  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
-- 🔭 I’m currently working on [mention your current projects].
-- 📫 How to reach me: [zunayedakm@gmail.com]
+👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
+🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
+🤔  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
+
+🔭 I’m currently working on [mention your current projects].
+📫 How to reach me: [zunayedakm@gmail.com]
 
 
-- 🔭 I’m currently looking for a job [Software Developer/Engineer].
-- 🌱 I’m currently learning [mention any new skills or technologies you are learning].
-- 👯 I’m looking to collaborate on [mention projects or areas you are interested in collaborating on].
-- 🤔 I’m looking for help with [mention any areas where you need help].
-- 💬 Ask me about [mention topics you are comfortable discussing].
-- 📫 How to reach me: [your email address or other contact info].
-- ⚡ Fun fact: [share a fun fact about yourself].
 
 ## Skills
 
@@ -28,9 +22,7 @@
 
 ### Machine Learning & Deep Learning Libraries (Python)
 
-![download1](https://github.com/user-attachments/assets/fe3941a3-f92a-43cb-8a6a-76e66f811cac)
-
-
+![images](https://github.com/user-attachments/assets/4ea0cf66-a038-4e02-9487-6a4351a5546d)
 
 ![Keras](https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg)
 ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)
