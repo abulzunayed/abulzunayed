@@ -28,9 +28,10 @@
 
 ### Common Libraries (C++)
 ![Boost1](https://github.com/user-attachments/assets/40ccc8f0-8cf3-4864-94e7-beace111d134)
-![OpenGL](https://github.com/user-attachments/assets/54a24a38-0fcb-431b-8357-207da84889bd)
+![OpenCV2](https://github.com/user-attachments/assets/edcfcc6e-418d-4afe-97b7-fe7169aa97ba)
+![OpenGL2](https://github.com/user-attachments/assets/5d38ffdd-10f2-4b5e-9a5b-2f0d644f906c)
 ![Qt1](https://github.com/user-attachments/assets/c8139198-b7ba-479a-8f61-99278f2e0b94)
-![OpenCV1](https://github.com/user-attachments/assets/275cafb3-507e-47ab-86f0-b5dface615af)
+
 
 
 ## GitHub Stats
