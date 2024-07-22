@@ -31,7 +31,7 @@
 ![Boost1](https://github.com/user-attachments/assets/40ccc8f0-8cf3-4864-94e7-beace111d134)
 ![OpenCV2](https://github.com/user-attachments/assets/edcfcc6e-418d-4afe-97b7-fe7169aa97ba)
 ![OpenGL2](https://github.com/user-attachments/assets/5d38ffdd-10f2-4b5e-9a5b-2f0d644f906c)
-![Qt2](https://github.com/user-attachments/assets/2fb2529a-c6ba-4600-b762-f2710e8be9b3)
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abul-kasem-mohammad-zunayed-9aa50285/)
