@@ -1,9 +1,9 @@
-    👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
-    🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
-    🤔  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
+👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
+🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
+🤔  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
 
-    🔭 I’m currently working on [mention your current projects].
-    📫 How to reach me: [zunayedakm@gmail.com]
+🔭 I’m currently working on [mention your current projects].
+📫 How to reach me: [zunayedakm@gmail.com]
 
 
 
