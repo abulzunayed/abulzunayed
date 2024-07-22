@@ -1,14 +1,9 @@
-![python1](https://github.com/user-attachments/assets/d5a41175-c7fe-4f13-b4bc-58882f5283bf)# Hi there, I'm [Abul Zunayed]! 👋
+    👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
+    🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
+    🤔  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
 
-
-## About Me
-
-👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
-🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
-🤔  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
-
-🔭 I’m currently working on [mention your current projects].
-📫 How to reach me: [zunayedakm@gmail.com]
+    🔭 I’m currently working on [mention your current projects].
+    📫 How to reach me: [zunayedakm@gmail.com]
 
 
 
@@ -21,16 +16,14 @@
 
 
 ### Machine Learning & Deep Learning Libraries (Python)
+![pandas1](https://github.com/user-attachments/assets/4eb0b21f-9cf5-414e-a7b9-8795d3248b99)
+![numpy1](https://github.com/user-attachments/assets/a94e021b-dc02-44d3-be06-485174556619)
+![matplotlib1](https://github.com/user-attachments/assets/f97c6517-828c-4124-90a7-cb9f3c1b9799)
+![tensorflow1](https://github.com/user-attachments/assets/1489d774-1141-4add-b2ce-7dffe266d6b9)
+![Seaborn1](https://github.com/user-attachments/assets/1cf8189c-6801-427c-8056-1b369c68906d)
+![keras1](https://github.com/user-attachments/assets/f084db3e-4a0e-4d7e-95e9-eabe5d094a8c)
+![pytorch1](https://github.com/user-attachments/assets/dc9d6875-a616-4881-abce-ede02c1331dc)
 
-![images](https://github.com/user-attachments/assets/4ea0cf66-a038-4e02-9487-6a4351a5546d)
-
-![Keras](https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg)
-![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)
-![Scikit-Learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg)
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
-![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)
-![Matplotlib](https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg)
-![Seaborn](https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg)
 
 ### Common Libraries (C++)
 ![Boost](https://www.boost.org/assets/img/boost.png)
@@ -50,16 +43,9 @@
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
-## Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title 1](https://yourblog.com/your-post-1)
-- [Your Blog Post Title 2](https://yourblog.com/your-post-2)
-- [Your Blog Post Title 3](https://yourblog.com/your-post-3)
-<!-- BLOG-POST-LIST:END -->
+
 
 ## Projects
 
@@ -71,8 +57,3 @@ Description of your project.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-2&theme=radical)](https://github.com/your-github-username/project-2)
 Description of your project.
 
-## Support Me
-
-If you like my work, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
