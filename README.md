@@ -34,5 +34,5 @@
 ![Qt2](https://github.com/user-attachments/assets/2fb2529a-c6ba-4600-b762-f2710e8be9b3)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abul-kasem-mohammad-zunayed-9aa50285)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abul-kasem-mohammad-zunayed-9aa50285/)
 
