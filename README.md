@@ -27,17 +27,12 @@
 ![keras2](https://github.com/user-attachments/assets/27b42bfd-b825-454b-86f6-02688e2f35ab)
 ![pytorch1](https://github.com/user-attachments/assets/dc9d6875-a616-4881-abce-ede02c1331dc)
 
-
 ### Common Libraries (C++)
 ![Boost1](https://github.com/user-attachments/assets/40ccc8f0-8cf3-4864-94e7-beace111d134)
 ![OpenCV2](https://github.com/user-attachments/assets/edcfcc6e-418d-4afe-97b7-fe7169aa97ba)
 ![OpenGL2](https://github.com/user-attachments/assets/5d38ffdd-10f2-4b5e-9a5b-2f0d644f906c)
 ![Qt2](https://github.com/user-attachments/assets/2fb2529a-c6ba-4600-b762-f2710e8be9b3)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abul-kasem-mohammad-zunayed-9aa50285)
 
