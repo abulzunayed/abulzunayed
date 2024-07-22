@@ -1,4 +1,4 @@
-## My faith: * nothing is impossible because you haven't figured it out yet..... *
+## My faith: "nothing is impossible because you haven't figured it out yet....."
 
 👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
 
@@ -24,6 +24,7 @@ In C++, I have experience with essential libraries such as Boost, OpenCV, Open G
 ![tensorflow1](https://github.com/user-attachments/assets/1489d774-1141-4add-b2ce-7dffe266d6b9)
 ![keras2](https://github.com/user-attachments/assets/27b42bfd-b825-454b-86f6-02688e2f35ab)
 ![pytorch1](https://github.com/user-attachments/assets/dc9d6875-a616-4881-abce-ede02c1331dc)
+
 ### Common Libraries (C++)
 ![Boost1](https://github.com/user-attachments/assets/40ccc8f0-8cf3-4864-94e7-beace111d134)
 ![OpenCV2](https://github.com/user-attachments/assets/edcfcc6e-418d-4afe-97b7-fe7169aa97ba)
