@@ -1,10 +1,11 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Abul Zunayed]! 👋
 
-![Profile Banner](https://example.com/your-banner-image)
+![Zunayed_pic](https://github.com/user-attachments/assets/9ed179f6-8a9b-414c-a5cd-871d807fe281)
+
 
 ## About Me
 
-I'm a passionate [Your Profession or Field of Interest] with a keen interest in [mention your specific interests or specializations]. I love exploring new technologies and using them to solve real-world problems.
+I'm a passionate [Software Development] with a keen interest in [Python and C++]. I love exploring new technologies and using them to solve real-world problems.
 
 - 🔭 I’m currently working on [mention your current projects].
 - 🌱 I’m currently learning [mention any new skills or technologies you are learning].
