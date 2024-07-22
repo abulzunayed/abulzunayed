@@ -1,17 +1,16 @@
-# Hi there, I'm [Abul Zunayed]! 👋
+![python1](https://github.com/user-attachments/assets/d5a41175-c7fe-4f13-b4bc-58882f5283bf)# Hi there, I'm [Abul Zunayed]! 👋
 
 
 ## About Me
 
-Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
-- 🌱 My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
-- I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
-
+- 👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
+- 🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
+- 🤔  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
+- 🔭 I’m currently working on [mention your current projects].
 - 📫 How to reach me: [zunayedakm@gmail.com]
 
-I'm a passionate [Software development] with a keen interest in [python and C++]. I love exploring new technologies and using them to solve real-world problems.
 
-- 🔭 I’m currently working on [mention your current projects].
+- 🔭 I’m currently looking for a job [Software Developer/Engineer].
 - 🌱 I’m currently learning [mention any new skills or technologies you are learning].
 - 👯 I’m looking to collaborate on [mention projects or areas you are interested in collaborating on].
 - 🤔 I’m looking for help with [mention any areas where you need help].
@@ -22,8 +21,9 @@ I'm a passionate [Software development] with a keen interest in [python and C++]
 ## Skills
 
 ### Programming Languages
-![c_plus1](https://github.com/user-attachments/assets/d58d7f62-3181-4763-a564-28e6e02c99c1)![tensorflow-original (1)](https://github.com/user-attachments/assets/8f1a51b2-d5f4-47b9-9642-0062a9d066a3)
-![python](https://github.com/user-attachments/assets/42466bfd-79a7-443d-9d19-146dad23ed4e)
+![python22](https://github.com/user-attachments/assets/e4c0df2d-3b09-491a-b414-b4154220144f)
+![c_plus22](https://github.com/user-attachments/assets/b5587408-685f-4152-8dd1-94981c2d8ee8)
+
 
 
 ### Machine Learning & Deep Learning Libraries (Python)
