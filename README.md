@@ -12,10 +12,9 @@
 ## Skills
 
 ### Programming Languages
-![python22](https://github.com/user-attachments/assets/e4c0df2d-3b09-491a-b414-b4154220144f)
-![c_plus22](https://github.com/user-attachments/assets/b5587408-685f-4152-8dd1-94981c2d8ee8)
 
-
+![C_plus1](https://github.com/user-attachments/assets/d0c00682-6f97-43d0-a40f-e947c5b915b6)
+![python1](https://github.com/user-attachments/assets/481b56ab-6b83-48e0-8e9c-f43b37bd17f7)
 
 ### Machine Learning & Deep Learning Libraries (Python)
 ![pandas1](https://github.com/user-attachments/assets/4eb0b21f-9cf5-414e-a7b9-8795d3248b99)
