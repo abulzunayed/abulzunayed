@@ -27,11 +27,11 @@
 
 
 ### Common Libraries (C++)
-![Boost](https://www.boost.org/assets/img/boost.png)
-![OpenCV](https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png)
-![Qt](https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg)
-![Eigen](https://upload.wikimedia.org/wikipedia/commons/8/8e/Eigen_logo.svg)
-![Poco](https://pocoproject.org/images/logo-web-white.svg)
+![Boost1](https://github.com/user-attachments/assets/40ccc8f0-8cf3-4864-94e7-beace111d134)
+![OpenGL](https://github.com/user-attachments/assets/54a24a38-0fcb-431b-8357-207da84889bd)
+![Qt1](https://github.com/user-attachments/assets/c8139198-b7ba-479a-8f61-99278f2e0b94)
+![OpenCV1](https://github.com/user-attachments/assets/275cafb3-507e-47ab-86f0-b5dface615af)
+
 
 ## GitHub Stats
 
