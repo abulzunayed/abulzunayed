@@ -1,8 +1,5 @@
 # Hi there, I'm [Abul Zunayed]! 👋
 
-![Zunayed_pic](https://github.com/user-attachments/assets/9ed179f6-8a9b-414c-a5cd-871d807fe281)
-
-
 ## About Me
 
 I'm a passionate [Software Development] with a keen interest in [Python and C++]. I love exploring new technologies and using them to solve real-world problems.
@@ -22,7 +19,9 @@ I'm a passionate [Software Development] with a keen interest in [Python and C++]
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Machine Learning & Deep Learning Libraries (Python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![download](https://github.com/user-attachments/assets/0771a1cc-ad86-4834-b7b9-299ef5dd3ea3)
+
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -34,9 +33,8 @@ I'm a passionate [Software Development] with a keen interest in [Python and C++]
 ### Common Libraries (C++)
 ![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Eigen](https://img.shields.io/badge/Eigen-00599C?style=for-the-badge&logo=eigen&logoColor=white)
-![Poco](https://img.shields.io/badge/Poco-00599C?style=for-the-badge&logo=poco&logoColor=white)
+
 
 ## GitHub Stats
 
@@ -52,13 +50,7 @@ I'm a passionate [Software Development] with a keen interest in [Python and C++]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
-## Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title 1](https://yourblog.com/your-post-1)
-- [Your Blog Post Title 2](https://yourblog.com/your-post-2)
-- [Your Blog Post Title 3](https://yourblog.com/your-post-3)
-<!-- BLOG-POST-LIST:END -->
 
 ## Projects
 
