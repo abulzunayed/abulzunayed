@@ -14,7 +14,8 @@ In C++, I have experience with essential libraries such as Boost, OpenCV, Open G
 
 ![C_plus1](https://github.com/user-attachments/assets/d0c00682-6f97-43d0-a40f-e947c5b915b6)
 ![python1](https://github.com/user-attachments/assets/481b56ab-6b83-48e0-8e9c-f43b37bd17f7)
-![images2](https://github.com/user-attachments/assets/87a7e670-bbff-4a01-808b-658ed1fa9580)
+![Matlab](https://github.com/user-attachments/assets/63b0fa75-b1ea-4cce-bab3-123ac6db0895)
+
 
 ### Machine Learning & Deep Learning Libraries (Python)
 ![Ml1](https://github.com/user-attachments/assets/00a5bb4a-d696-4f20-a555-c2323133d8d0)
