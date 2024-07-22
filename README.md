@@ -3,8 +3,11 @@
 
 ## About Me
 
-Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions. I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
+Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
+- 🌱 My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
+- I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. Always keen to learn and grow, I am currently exploring new technologies and methodologies to expand my expertise and contribute meaningfully to the soft tech community.
 
+- 📫 How to reach me: [zunayedakm@gmail.com]
 
 I'm a passionate [Software development] with a keen interest in [python and C++]. I love exploring new technologies and using them to solve real-world problems.
 
@@ -20,15 +23,14 @@ I'm a passionate [Software development] with a keen interest in [python and C++]
 
 ### Programming Languages
 ![c_plus1](https://github.com/user-attachments/assets/d58d7f62-3181-4763-a564-28e6e02c99c1)![tensorflow-original (1)](https://github.com/user-attachments/assets/8f1a51b2-d5f4-47b9-9642-0062a9d066a3)
+![python](https://github.com/user-attachments/assets/42466bfd-79a7-443d-9d19-146dad23ed4e)
 
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ### Machine Learning & Deep Learning Libraries (Python)
 
 ![download1](https://github.com/user-attachments/assets/fe3941a3-f92a-43cb-8a6a-76e66f811cac)
 
-![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)
+
 
 ![Keras](https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg)
 ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)
