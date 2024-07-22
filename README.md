@@ -1,14 +1,12 @@
+## Nothing is impossible, because you don't figure out it yet.....
 👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
 
 🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. 
 In C++, I have experience with essential libraries such as Boost, OpenCV, Open GL and Qt, which have equipped me to tackle complex computational tasks and develop efficient software solutions.
 
-🔭  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. So, I’m currently working on [mention your current projects].
+🔭  I am eager to apply my knowledge to real-world challenges and collaborate with like-minded professionals to innovate and create impactful software. 
+
 📫 How to reach me: [zunayedakm@gmail.com]
-
-
-
-## Skills
 
 ### Programming Languages
 
@@ -25,12 +23,10 @@ In C++, I have experience with essential libraries such as Boost, OpenCV, Open G
 ![tensorflow1](https://github.com/user-attachments/assets/1489d774-1141-4add-b2ce-7dffe266d6b9)
 ![keras2](https://github.com/user-attachments/assets/27b42bfd-b825-454b-86f6-02688e2f35ab)
 ![pytorch1](https://github.com/user-attachments/assets/dc9d6875-a616-4881-abce-ede02c1331dc)
-
 ### Common Libraries (C++)
 ![Boost1](https://github.com/user-attachments/assets/40ccc8f0-8cf3-4864-94e7-beace111d134)
 ![OpenCV2](https://github.com/user-attachments/assets/edcfcc6e-418d-4afe-97b7-fe7169aa97ba)
 ![OpenGL2](https://github.com/user-attachments/assets/5d38ffdd-10f2-4b5e-9a5b-2f0d644f906c)
-
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abul-kasem-mohammad-zunayed-9aa50285/)
