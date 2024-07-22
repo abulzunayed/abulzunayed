@@ -1,4 +1,5 @@
-## Nothing is impossible, because you don't figure out it yet.....
+## Keep the faith: * nothing is impossible because you haven't figured it out yet..... *
+
 👋  Hello! I'm [Abul Zunayed], a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
 
 🌱  My Python expertise spans Machine Learning and Deep Learning, where I've built models using libraries like TensorFlow, Keras, and PyTorch. 
