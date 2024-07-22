@@ -1,4 +1,4 @@
-# Hi there, I'm [Abul Zunayed]! 👋
+![tensorflow-original (1)](https://github.com/user-attachments/assets/8f1a51b2-d5f4-47b9-9642-0062a9d066a3)# Hi there, I'm [Abul Zunayed]! 👋
 
 
 ## About Me
@@ -23,7 +23,11 @@ I'm a passionate [Software development] with a keen interest in [python and C++]
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ### Machine Learning & Deep Learning Libraries (Python)
+
+![download1](https://github.com/user-attachments/assets/fe3941a3-f92a-43cb-8a6a-76e66f811cac)
+
 ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)
+
 ![Keras](https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg)
 ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)
 ![Scikit-Learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg)
