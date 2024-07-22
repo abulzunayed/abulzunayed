@@ -17,6 +17,9 @@
 ![python1](https://github.com/user-attachments/assets/481b56ab-6b83-48e0-8e9c-f43b37bd17f7)
 
 ### Machine Learning & Deep Learning Libraries (Python)
+![Ml1](https://github.com/user-attachments/assets/00a5bb4a-d696-4f20-a555-c2323133d8d0)
+![DL1](https://github.com/user-attachments/assets/6bdec938-2246-4c41-bae5-402877574221)
+
 ![pandas1](https://github.com/user-attachments/assets/4eb0b21f-9cf5-414e-a7b9-8795d3248b99)
 ![numpy1](https://github.com/user-attachments/assets/a94e021b-dc02-44d3-be06-485174556619)
 ![matplotlib1](https://github.com/user-attachments/assets/f97c6517-828c-4124-90a7-cb9f3c1b9799)
@@ -32,28 +35,12 @@
 ![OpenGL2](https://github.com/user-attachments/assets/5d38ffdd-10f2-4b5e-9a5b-2f0d644f906c)
 ![Qt2](https://github.com/user-attachments/assets/2fb2529a-c6ba-4600-b762-f2710e8be9b3)
 
-
-
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-
-
-
-
-## Projects
-
-### Project 1
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-1&theme=radical)](https://github.com/your-github-username/project-1)
-Description of your project.
-
-### Project 2
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-2&theme=radical)](https://github.com/your-github-username/project-2)
-Description of your project.
 
