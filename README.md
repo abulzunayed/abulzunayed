@@ -16,9 +16,26 @@ I'm a passionate [Your Profession or Field of Interest] with a keen interest in 
 
 ## Skills
 
-![Your Skill 1](https://img.shields.io/badge/Skill-1ABC9C?style=for-the-badge&logo=Skill1&logoColor=white)
-![Your Skill 2](https://img.shields.io/badge/Skill-3498DB?style=for-the-badge&logo=Skill2&logoColor=white)
-![Your Skill 3](https://img.shields.io/badge/Skill-9B59B6?style=for-the-badge&logo=Skill3&logoColor=white)
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Machine Learning & Deep Learning Libraries (Python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3D3D3D?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Common Libraries (C++)
+![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Eigen](https://img.shields.io/badge/Eigen-00599C?style=for-the-badge&logo=eigen&logoColor=white)
+![Poco](https://img.shields.io/badge/Poco-00599C?style=for-the-badge&logo=poco&logoColor=white)
 
 ## GitHub Stats
 
@@ -55,5 +72,3 @@ Description of your project.
 ## Support Me
 
 If you like my work, consider buying me a coffee!
-
-[!
