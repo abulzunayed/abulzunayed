@@ -1,4 +1,4 @@
-## My faith: "Nothing is impossible because you haven't figured it out yet....."
+## My faith: "Nothing is impossible, just you haven't figured it out yet....."
 
 👋  Hello! I'm **Abul Zunayed**, a passionate and enthusiastic software developer at the start of my career journey. With a strong foundation in Python and C++, I have honed my skills in programming and problem-solving. 
 
